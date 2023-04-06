@@ -1,243 +1,243 @@
 {
   "variants": {
     "delay=1,facing=east,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=1,facing=east,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=1,facing=east,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=1,facing=east,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=1,facing=north,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=1,facing=north,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=1,facing=north,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=1,facing=north,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=1,facing=south,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=1,facing=south,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=1,facing=south,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=1,facing=south,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=1,facing=west,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=1,facing=west,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=1,facing=west,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=1,facing=west,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=2,facing=east,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=2,facing=east,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=2,facing=east,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=2,facing=east,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=2,facing=north,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=2,facing=north,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=2,facing=north,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=2,facing=north,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=2,facing=south,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=2,facing=south,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=2,facing=south,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=2,facing=south,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=2,facing=west,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=2,facing=west,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=2,facing=west,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=2,facing=west,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=3,facing=east,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=3,facing=east,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=3,facing=east,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=3,facing=east,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=3,facing=north,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=3,facing=north,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=3,facing=north,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=3,facing=north,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=3,facing=south,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=3,facing=south,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=3,facing=south,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=3,facing=south,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=3,facing=west,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=3,facing=west,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=3,facing=west,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=3,facing=west,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=4,facing=east,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=4,facing=east,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=4,facing=east,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=4,facing=east,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 270
     },
     "delay=4,facing=north,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=4,facing=north,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=4,facing=north,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=4,facing=north,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 180
     },
     "delay=4,facing=south,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=4,facing=south,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=4,facing=south,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=4,facing=south,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
     },
     "delay=4,facing=west,locked=false,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=4,facing=west,locked=false,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=4,facing=west,locked=true,powered=false": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     },
     "delay=4,facing=west,locked=true,powered=true": {
-      "model": "1000mc:block/pebbles",
+      "model": "minecraft:block/pebbles",
       "y": 90
     }
   }
