@@ -7,23 +7,23 @@ assignees: ''
 
 ---
 
-##### Description
+#### Description
 description of problem or suggestion.
 
-##### Steps to reproduce
+#### Steps to reproduce
 list steps to reproduce problem. (if n/a, skip)
 
-##### Expected behavior
+#### Expected behavior
 description of expected behavior.
 
-##### Actual behavior
+#### Actual behavior
 description of behavior that is present. (if n/a, skip)
 
-##### Version
+#### Version
 (version)
 
-##### Operating system
+#### Operating system
 (operating system)
 
-##### Additional context
+#### Additional context
 any additional information you think is important for us to know
